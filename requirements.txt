@@ -1,0 +1,11 @@
+boto3==1.34.3
+common==0.1.2
+dask==2023.5.0
+dill==0.3.7
+ipython==8.12.3
+matplotlib==3.7.4
+pandas==1.3.5
+sagemaker==2.200.1
+setuptools==56.0.0
+SQLAlchemy==1.4.50
+tqdm==4.66.1
